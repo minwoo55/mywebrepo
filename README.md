@@ -1,2 +1,2 @@
-# mywerepo
-mywerepo
+# mywebrepo
+mywebrepo
